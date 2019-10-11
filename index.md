@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Hi, my name is Cassie'
 description: null
-image: null
+image: assets/images/logo.svg
 author: null
 show_tile: false
 ---
