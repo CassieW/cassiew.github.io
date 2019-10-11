@@ -72,7 +72,12 @@
 			}
 
 			#logo {
-				float: right;
+				float: left;
+				display: inline-block;
+			}
+
+			.banner-content {
+				display: inline-block;
 			}
 
 			.content {
