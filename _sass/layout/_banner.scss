@@ -71,6 +71,11 @@
 				}
 			}
 
+			.logo {
+				display: block;
+				float: right;
+			}
+
 			.content {
 				@include vendor('display', 'flex');
 				@include vendor('align-items', 'center');
