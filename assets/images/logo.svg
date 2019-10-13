@@ -26,7 +26,7 @@
 		c-0.46-2.74-0.83-5.45-1.13-8.24c-0.15-1.46-0.21-2.84-0.29-4.2c-0.07-1.37-0.13-2.74-0.16-4.11c-0.28-10.96,0.56-21.94,2.63-32.65
 		c4.07-21.44,13.16-41.73,26.22-58.76L218.53,225.5z">
 		<animate id="animation4" attributeName="opacity" fill="freeze" from="0" to="1" dur="2s" begin="animation3.end" />
-		<animateTransform attributeName="transform" attributeType="XML" type="skewX" values="0;-3;-3;0" keyTimes="0;0.6;0.8;1" dur="4s" begin="animation4.end" repeatCount="indefinite" />
+		<animateTransform attributeName="transform" attributeType="XML" type="skewX" values="0;-3;-3;0" keyTimes="0;0.6;0.8;1" dur="3s" begin="animation4.end" repeatCount="indefinite" />
 	</path>
 </g>
 <g>
