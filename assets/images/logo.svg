@@ -25,7 +25,8 @@
 		c-0.73-4.96-1.84-9.76-3.41-14.46c-1.5-4.73-3.45-9.3-5.68-14.26c-2.22-4.96-4.31-10.29-5.89-15.62c-1.6-5.33-2.86-10.74-3.79-16.2
 		c-0.46-2.74-0.83-5.45-1.13-8.24c-0.15-1.46-0.21-2.84-0.29-4.2c-0.07-1.37-0.13-2.74-0.16-4.11c-0.28-10.96,0.56-21.94,2.63-32.65
 		c4.07-21.44,13.16-41.73,26.22-58.76L218.53,225.5z">
-		<animate attributeName="opacity" fill="freeze" from="0" to="1" dur="2s" begin="animation3.end" />
+		<animate id="animation4" attributeName="opacity" fill="freeze" from="0" to="1" dur="2s" begin="animation3.end" />
+		<animateTransform attributeName="transform" attributeType="XML" type="skewX" values="0;-3;-3;0" keyTimes="0;0.6;0.8;1" dur="4s" begin="animation4.end" repeatCount="indefinite" />
 	</path>
 </g>
 <g>
@@ -43,7 +44,8 @@
 		c-1.12-11.23,0.4-22.6,4.4-32.98c3.98-10.39,10.51-19.64,18.65-26.88c0.51-0.46,1.03-0.9,1.54-1.34l1.5-1.25
 		c0.98-0.84,2.05-1.71,3.1-2.53c2.11-1.65,4.28-3.21,6.51-4.68c4.46-2.94,9.14-5.51,13.98-7.7c9.68-4.35,19.99-7.12,30.41-8.19
 		L211.17,225.7z">
-		<animate attributeName="opacity" fill="freeze" from="0" to="1" dur="2s" begin="animation3.end" />
+		<animate id="animation4" attributeName="opacity" fill="freeze" from="0" to="1" dur="2s" begin="animation3.end" />
+		<animateTransform attributeName="transform" attributeType="XML" type="skewX" values="0;-5;-5;0" keyTimes="0;0.6;0.8;1" dur="4s" begin="animation4.end" repeatCount="indefinite" />
 	</path>
 </g>
 <g>
