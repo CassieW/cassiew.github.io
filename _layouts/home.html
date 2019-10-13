@@ -24,12 +24,14 @@
                 <div class="content">
                     <div class="typewriter">
                         <p style="text-transform: uppercase;">{{ site.description }}</p>
+                        <!-- <p> DEVELOPER | DESIGNER | ENTREPRENEUR </p> -->
                         <style>
                         .content p span {display: none}
                         </style>
+                        <!-- jQuery fade-in effect -->
                         <script type="text/javascript" src="../assets/js/jquery.min.js"></script>
                         <script type="text/javascript">
-                            var fadeInterval = 2000
+                            var fadeInterval = 500
 
                             $('.typewriter > p').html(function(_, txt){
                                 var words= $.trim(txt).split(' ');
