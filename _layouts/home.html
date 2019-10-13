@@ -26,7 +26,10 @@
                         <p style="text-transform: uppercase;">{{ site.description }}</p>
                         <!-- <p> DEVELOPER | DESIGNER | ENTREPRENEUR </p> -->
                         <style>
-                        .content p span {display: none}
+                        .content p span {
+                            display: none;
+                            vertical-align: middle;
+                        }
                         </style>
                         <!-- jQuery fade-in effect -->
                         <script type="text/javascript" src="../assets/js/jquery.min.js"></script>
@@ -42,7 +45,11 @@
                     </script>
                     </div>
                     <ul class="actions">
-                        <li><a href="#one" class="button next scrolly">Rethink "DIGITAL"</a></li>
+                        <li style="display:none"><a href="#one" class="button next scrolly">Rethink "DIGITAL"</a></li>
+                        <script type="text/javascript">
+                        var fadeInterval = 3000
+                        $('.actions > li').delay(fadeInterval).fadeIn();
+                        </script>
                     </ul>
                 </div>
             </div>
