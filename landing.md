@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Rethink "Digital"
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Digital Wellbeing<br />Digital Industry<br />Digital City<br />Ubiquitous Interaction'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
