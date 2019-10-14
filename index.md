@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+As we live in the digital world with technologies more tangible and accessible than ever, it becomes not so obvious to see where we stand as a fragmented landscape in digital market. This fragmentation creates gaps between what we have and what the market has to offer, hindering effectiveness of technologies and their development. It is time to rethink “digital”, and how it matters to our everyday life.   
