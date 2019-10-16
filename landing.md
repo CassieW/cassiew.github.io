@@ -29,9 +29,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<a href="experion.html"><h3>Honeywell Experion® PKS - Experion Batch</h3></a>
+					<a href="experion.html"><h3 class="hyperlink">Honeywell Experion® PKS - Experion Batch</h3></a>
 				</header>
-				<p>Experion® Batch combines Experion’s distributed control, batch automation, and visualization technology for a solution optimized for Pharmaceutical, Specialty Chemical, Food & Beverage, and other batch applications. Increase operational efficiencies and throughput, bridge operator skills gaps, and ensure repeatable quality.</p>
+				<p>Discover Smart Operations with The Control Room of the Future. As part of the service-product bundle, Experion® Batch combines Experion’s distributed control, batch automation, and visualization technology for a solution optimized for Pharmaceutical, Specialty Chemical, Food & Beverage, and other batch applications. Increase operational efficiencies and throughput, bridge operator skills gaps, and ensure repeatable quality.</p>
 				<ul class="actions">
 					<li><a href="experion.html" class="button">Learn more</a></li>
 				</ul>
