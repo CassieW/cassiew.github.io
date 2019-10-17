@@ -16,11 +16,11 @@
   {% if site.tiles-source == 'pages' and page.show_tile != false %}
   <article>
     <span class="image">
-      <img src="{{ site.pages[0].image }}" alt="" />
+      <img src="{{ page.image }}" alt="" />
     </span>
     <header class="major">
-      <h3><a href="{{ site.pages[0].url | relative_url  }}" class="link">{{ site.pages[0].title }}</a></h3>
-      <p>{{ site.pages[0].description }}</p>
+      <h3><a href="{{ page.url | relative_url  }}" class="link">{{ page.title }}</a></h3>
+      <p>{{ page.description }}</p>
     </header>
   </article>
   {% endif %}
