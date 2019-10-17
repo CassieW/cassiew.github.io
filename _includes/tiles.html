@@ -12,15 +12,15 @@
   </article>
   {% endif %}
   {% endfor %}
-  {% for page in site.pages limit:site.tiles-count %}
-  {% if site.tiles-source == 'pages' and page.show_tile != false %}
+  <!-- {% for page in site.pages limit:site.tiles-count %} -->
+  <!-- {% if site.tiles-source == 'pages' and page.show_tile != false %} -->
   <article>
     <span class="image">
-      <img src="{{ page.image }}" alt="" />
+      <img src="{{ site.pages[0].page.image }}" alt="" />
     </span>
     <header class="major">
-      <h3><a href="{{ page.url | relative_url  }}" class="link">{{ page.title }}</a></h3>
-      <p>{{ page.description }}</p>
+      <h3><a href="{{ site.pages[0].url | relative_url  }}" class="link">{{ site.pages[0].title }}</a></h3>
+      <p>{{ site.pages[0].description }}</p>
     </header>
   </article>
   {% endif %}
