@@ -24,7 +24,7 @@ show_tile: false
     </div>
 </section>
 
-<div class="row" style="5em 0em 5em 10em">
+<div class="row" style="padding:5em 0em 5em 10em">
 	<div class="4u 12u$(medium)" style="border-left:2px solid white">
 		<h3>CLIENT</h3>
 		<p>ExxonMobil, Boehringer Ingelheim, Chevron …</p>
