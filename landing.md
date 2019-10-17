@@ -33,7 +33,7 @@ nav-menu: true
 				</header>
 				<p>Experion® Batch combines Experion’s distributed control, batch automation, and patent pending visualization technology for a solution optimized for Pharmaceutical, Specialty Chemical, Food & Beverage, and other batch applications. Increase operational efficiencies and throughput, bridge operator skills gaps, and ensure repeatable quality.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="experion.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
