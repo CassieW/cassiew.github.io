@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Gallery
 image: assets/images/pic11.jpg
 nav-menu: true
