@@ -15,7 +15,7 @@ phone: (215) 730-4870
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 10
 
 # social settings
 500px_url:
