@@ -1,6 +1,6 @@
 ---
-title: Landing
-id: Rethink "Digital"
+title: Projects
+<!-- id: Rethink "Digital" -->
 layout: landing
 description: 'Digital Industry<br />Digital Wellbeing<br />Digital City<br />Ubiquitous Interaction'
 image: assets/images/pic07.jpg
