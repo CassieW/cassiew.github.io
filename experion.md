@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Projects
-description: 'Digital Industry<br />Digital Wellbeing<br />Digital City<br />Ubiquitous Interaction'
+title: Honeywell Experion® PKS - Experion Batch
+description: Make Every Batch Golden
 image: assets/images/orion.jpg
 nav-menu: false
+show_tile: false
 ---
 
 <!-- main -->
