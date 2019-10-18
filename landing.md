@@ -23,13 +23,13 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+		<a href="experion.html" class="image">
+			<img src="assets/images/orionjpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Honeywell Experion® PKS - Experion Batch</h3>
+					<a href="experion.html"><h3>Honeywell Experion® PKS - Experion Batch</h3></a>
 				</header>
 				<p>Experion® Batch combines Experion’s distributed control, batch automation, and patent pending visualization technology for a solution optimized for Pharmaceutical, Specialty Chemical, Food & Beverage, and other batch applications. Increase operational efficiencies and throughput, bridge operator skills gaps, and ensure repeatable quality.</p>
 				<ul class="actions">
