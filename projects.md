@@ -1,5 +1,5 @@
 ---
-title: Landing
+title: Projects
 id: Rethink "Digital"
 layout: landing
 description: 'Digital Industry<br />Digital Wellbeing<br />Digital City<br />Ubiquitous Interaction'
