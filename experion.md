@@ -58,7 +58,7 @@ show_tile: false
 		</header>
 		<p>Currently in Batch Operations, operators are often “flying blind” not knowing when critical steps are coming up. According to our customer research, throughput is compromised because operators do not have the time-based visualizations to prepare for upcoming tasks. Knowing what is coming next and when is key to keeping the plant running at maximum efficiency.</p>
 	</div>
-	<div class="row" style="padding:0em 5em">
+	<div class="row" style="padding:0em 7.5em">
 		<div class="4u 12u$(medium)">
 			<h3>User Personas</h3>
 			<p>
@@ -71,7 +71,7 @@ show_tile: false
 			</p>
 			<p>
 				<span class="image left"><img src="assets/images/pic09.jpg" alt="" /></span>
-				<code>llie Oldschool  |  “Old School” Console Operator</code>
+				<code>Ollie Oldschool  |  “Old School” Console Operator</code>
 			</p>
 		</div>
 		<div class="4u 12u$(medium)" style="border-left:2px solid white">
