@@ -1,11 +1,25 @@
 ---
 title: Projects
-<!-- id: Rethink "Digital" -->
-layout: landing
+id: Rethink "Digital"
+layout: page
 description: 'Digital Industry<br />Digital Wellbeing<br />Digital City<br />Ubiquitous Interaction'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
+
+<section id="banner" class="style2">
+    <div class="inner">
+        <span class="image">
+            <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
+        </span>
+        <header class="major">
+            <h1>{{ page.id }}</h1>
+        </header>
+        <div class="content">
+            {{ page.description }}
+        </div>
+    </div>
+</section>
 
 <!-- Main -->
 <div id="main">
