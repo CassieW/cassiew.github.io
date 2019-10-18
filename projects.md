@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-id: Rethink "Digital"
+<!-- id: Rethink "Digital" -->
 description: 'Digital Industry<br />Digital Wellbeing<br />Digital City<br />Ubiquitous Interaction'
 image: assets/images/pic07.jpg
 nav-menu: true
@@ -13,7 +13,7 @@ nav-menu: true
             <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
         </span>
         <header class="major">
-            <h1>{{ page.id }}</h1>
+            <h1>{{ page.title }}</h1>
         </header>
         <div class="content">
             {{ page.description }}
