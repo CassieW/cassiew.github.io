@@ -4,7 +4,7 @@ title: Honeywell Experion® PKS - Experion Batch
 description: Make Every Batch Golden
 image: assets/images/orion.jpg
 nav-menu: false
-show-tile: false
+show_tile: false
 ---
 
 <!-- main -->

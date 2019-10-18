@@ -1,7 +1,7 @@
 ---
+layout: page
 title: Projects
 id: Rethink "Digital"
-layout: page
 description: 'Digital Industry<br />Digital Wellbeing<br />Digital City<br />Ubiquitous Interaction'
 image: assets/images/pic07.jpg
 nav-menu: true
