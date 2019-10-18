@@ -1,25 +1,16 @@
----
-layout: page
-title: Honeywell Experion® PKS - Experion Batch
-description: Make Every Batch Golden
-image: assets/images/orion.jpg
-nav-menu: false
-show_tile: false
----
-
-<!-- main -->
+I"Q<!-- main -->
 <div id="main" class="alt">
 
 <section id="banner" class="style2">
     <div class="inner">
         <span class="image">
-            <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
+            <img src="/assets/images/orion.jpg" alt="" />
         </span>
         <header class="major">
-            <h1>{{ page.title }}</h1>
+            <h1>Honeywell Experion® PKS - Experion Batch</h1>
         </header>
         <div class="content">
-            {{ page.description }}
+            Make Every Batch Golden
         </div>
     </div>
 </section>
@@ -111,3 +102,4 @@ show_tile: false
 
 
 </div>
+:ET

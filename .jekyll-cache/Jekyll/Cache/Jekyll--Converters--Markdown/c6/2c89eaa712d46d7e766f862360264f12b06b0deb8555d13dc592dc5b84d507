@@ -1,25 +1,16 @@
----
-layout: page
-title: Honeywell Experion® PKS - Experion Batch
-description: Make Every Batch Golden
-image: assets/images/orion.jpg
-nav-menu: false
-show_tile: false
----
-
-<!-- main -->
+I"�<!-- main -->
 <div id="main" class="alt">
 
 <section id="banner" class="style2">
     <div class="inner">
         <span class="image">
-            <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
+            <img src="/assets/images/orion.jpg" alt="" />
         </span>
         <header class="major">
-            <h1>{{ page.title }}</h1>
+            <h1>Honeywell Experion® PKS - Experion Batch</h1>
         </header>
         <div class="content">
-            {{ page.description }}
+            Make Every Batch Golden
         </div>
     </div>
 </section>
@@ -62,52 +53,35 @@ show_tile: false
 		<div class="4u 12u$(medium)">
 			<h3>User Personas</h3>
 			<p>
-				<span class="image left"><img src="assets/images/oscar.jpg" alt="" /></span>
-				<code><b>Oscar Operator</b><br /></code>
-				<code><b>Control Room Operator</b><br />Works in Control room. Very busy, noisy – lots of operators, phones, alarms. 12 hour shifts – 4 days on, 5 off.</code>
+				<span class="image left"><img src="assets/images/pic09.jpg" alt="" /></span>
+				<code><b>Name</b>: Owen Operator<br /></code>
+				<code><b> Job title</b><br />: Control Room Operator<br /></code>
+				<code><b> Work environment</b>: Control room. Very busy, noisy – lots of operators, phones, alarms. </code>
 			</p>
 			<p>
-				<span class="image left"><img src="assets/images/samuel.jpg" alt="" /></span>
-				<code><b>Samuel Smart</b><br /></code>
-				<code><b>“Super” Console Operator</b><br />Works in the plant. Ascended to current position from maintenance role.</code>
+				<span class="image left"><img src="assets/images/pic09.jpg" alt="" /></span>
+				<code>Nancy Novice  |  “Novice” Console Operator</code>
 			</p>
 			<p>
-				<span class="image left"><img src="assets/images/stephen.jpg" alt="" /></span>
-				<code><b>Stephen Super</b><br /></code>
-				<code><b>Shift Supervisor</b><br />Dedicated office, close to the control room. Spends a lot of time communicating between Console Operators and Plant Management.</code>
+				<span class="image left"><img src="assets/images/pic09.jpg" alt="" /></span>
+				<code>Ollie Oldschool  |  “Old School” Console Operator</code>
 			</p>
 		</div>
 		<div class="4u 12u$(medium)" style="border-left:2px solid white">
 			<h3>User Environments</h3>
-			<p>
-			<br />
-			<code><b>Control Room:</b> Multiscreen station with mouse and keyboard input. Operator seated in chair.</code>
-			<br /><br />
-			</p>
-			<p>
-			<br /><br />
-			<code><b>In the Plant:</b> Single screen station sometimes touchscreen. Operator standing near equipment.</code>
-			<br /><br />
-			</p>
-			<p>
-			<br /><br /><br />
-			<code><b>On the Go:</b> Mobile tablet in hard case.</code>
-			<br /><br /><br />
-			</p>
+			<p><code><b>Control Room:</b> Multiscreen station with mouse and keyboard input. Operator seated in chair.</code></p>
+			<p><code><b>In the Plant:</b> Single screen station sometimes touchscreen. Operator standing near equipment.</code></p>
+			<p><code><b>On the Go:</b> Mobile tablet in hard case.</code></p>
 		</div>
-		<div class="4u$ 12u$(medium)" style="border-left:2px solid white; padding-bottom: 20em;">
+		<div class="4u$ 12u$(medium)" style="border-left:2px solid white">
 			<h3>Experions Outcomes</h3>
-			<blockquote>
-			<code><b>Understand the context of my active processes…</b> more easily and clearly.</code>
-			</blockquote>
-			<blockquote>
-			<code><b>Troubleshoot batch process…</b> more efficiently and with less downtime.</code>
-			</blockquote>
+			<p><code><b>Understand the context of my active processes…</b> more easily and clearly.</code></p>
+			<p><code><b>Troubleshoot batch process…</b> more efficiently and with less downtime.</code></p>
 		</div>
 	</div>
-
 
 </section>
 
 
 </div>
+:ET

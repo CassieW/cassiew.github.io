@@ -1,4 +1,4 @@
-I"�<!-- main -->
+I"^<!-- main -->
 <div id="main" class="alt">
 
 <section id="banner" class="style2">
@@ -54,27 +54,47 @@
 			<h3>User Personas</h3>
 			<p>
 				<span class="image left"><img src="assets/images/pic09.jpg" alt="" /></span>
-				<code>Owen Operator  |  Control Room Operator</code>
+				<code><b>Oscar Operator</b><br /></code>
+				<code><b>Control Room Operator</b><br />Works in Control room. Very busy, noisy – lots of operators, phones, alarms. 12 hour shifts – 4 days on, 5 off.</code>
 			</p>
 			<p>
 				<span class="image left"><img src="assets/images/pic09.jpg" alt="" /></span>
-				<code>Nancy Novice  |  “Novice” Console Operator</code>
+				<code><b>Samuel Smart</b><br /></code>
+				<code><b>“Super” Console Operator</b><br />Works in the plant. Ascended to current position from maintenance role.</code>
 			</p>
 			<p>
 				<span class="image left"><img src="assets/images/pic09.jpg" alt="" /></span>
-				<code>Ollie Oldschool  |  “Old School” Console Operator</code>
+				<code><b>Stephen Super</b><br /></code>
+				<code><b>Shift Supervisor</b><br />Dedicated office, close to the control room. Spends a lot of time communicating between Console Operators and Plant Management.</code>
 			</p>
 		</div>
 		<div class="4u 12u$(medium)" style="border-left:2px solid white">
 			<h3>User Environments</h3>
-			<p><code><b>Control Room:</b> Multiscreen station with mouse and keyboard input. Operator seated in chair.</code></p>
-			<p><code><b>In the Plant:</b> Single screen station sometimes touchscreen. Operator standing near equipment.</code></p>
-			<p><code><b>On the Go:</b> Mobile tablet in hard case.</code></p>
+			<p>
+			<br />
+			<code><b>Control Room:</b> Multiscreen station with mouse and keyboard input. Operator seated in chair.</code>
+			<br /><br />
+			</p>
+			<p>
+			<br /><br />
+			<code><b>In the Plant:</b> Single screen station sometimes touchscreen. Operator standing near equipment.</code>
+			<br /><br />
+			</p>
+			<p>
+			<br /><br /><br />
+			<code><b>On the Go:</b> Mobile tablet in hard case.</code>
+			<br /><br /><br />
+			</p>
 		</div>
 		<div class="4u$ 12u$(medium)" style="border-left:2px solid white">
 			<h3>Experions Outcomes</h3>
-			<p><code><b>Understand the context of my active processes…</b> more easily and clearly.</code></p>
-			<p><code><b>Troubleshoot batch process…</b> more efficiently and with less downtime.</code></p>
+			<blockquote>
+			<code><b>Understand the context of my active processes…</b> more easily and clearly.</code>
+			</blockquote>
+			<blockquote>
+			<code><b>Troubleshoot batch process…</b> more efficiently and with less downtime.</code>
+			</blockquote>
+			<br /><br /><br /><br /><br /><br />
 		</div>
 	</div>
 
