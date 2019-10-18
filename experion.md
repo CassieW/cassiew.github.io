@@ -58,9 +58,9 @@ show_tile: false
 		</header>
 		<p>Currently in Batch Operations, operators are often “flying blind” not knowing when critical steps are coming up. According to our customer research, throughput is compromised because operators do not have the time-based visualizations to prepare for upcoming tasks. Knowing what is coming next and when is key to keeping the plant running at maximum efficiency.</p>
 	</div>
-	<div class="row" style="padding:5em 0em 5em 10em">
-		<div class="4u 12u$(medium)" style="border-left:2px solid white">
-			<p>User Personas</p>
+	<div class="row" style="padding:0em 5em">
+		<div class="4u 12u$(medium)">
+			<h3>User Personas</h3>
 			<p>
 				<span class="image left"><img src="assets/images/pic09.jpg" alt="" /></span>
 				<code>Owen Operator  |  Control Room Operator</code>
@@ -75,10 +75,10 @@ show_tile: false
 			</p>
 		</div>
 		<div class="4u 12u$(medium)" style="border-left:2px solid white">
-			<p>User Environments</p>
+			<h3>User Environments</h3>
 		</div>
 		<div class="4u$ 12u$(medium)" style="border-left:2px solid white">
-			<p>Experions Outcomes</p>
+			<h3>Experions Outcomes</h3>
 			<p><code><b>Understand the context of my active processes…</b> more easily and clearly</code></p>
 			<p><code><b>Troubleshoot batch process…</b> more efficiently and with less downtime</code></p>
 		</div>
