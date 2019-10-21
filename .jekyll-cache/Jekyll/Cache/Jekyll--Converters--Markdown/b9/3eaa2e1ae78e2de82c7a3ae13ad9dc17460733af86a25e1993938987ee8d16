@@ -1,25 +1,16 @@
----
-layout: page
-title: Honeywell Experion® PKS - Experion Batch
-description: Make Every Batch Golden
-image: assets/images/orion.jpg
-nav-menu: false
-show_tile: false
----
-
-<!-- main -->
+I"<!-- main -->
 <div id="main" class="alt">
 
 <section id="banner" class="style2">
     <div class="inner">
         <span class="image">
-            <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
+            <img src="/assets/images/orion.jpg" alt="" />
         </span>
         <header class="major">
-            <h1>{{ page.title }}</h1>
+            <h1>Honeywell Experion® PKS - Experion Batch</h1>
         </header>
         <div class="content">
-            {{ page.description }}
+            Make Every Batch Golden
         </div>
     </div>
 </section>
@@ -115,8 +106,8 @@ show_tile: false
         A strength of adaptive design is that it feels more relevant to the modern user experience, whereas responsive design shows a more desktop-centric approach (with the demands of other devices taking a secondary, almost passive place). Let’s take a literal example; if you were driving through a long tunnel, wouldn’t you rather have a GPS screen that adapts to the environment and adjusts its brightness? That context-based performance and usability is reassuring, at the same time confirming that your smart device is smart enough to adapt and be extra useful.”
         </blockquote>
         <dl>
-        <dt>Full screen & pop-up</dt>
-        <dt>Light & dark</dt>
+        <dt>Full screen &amp; pop-up</dt>
+        <dt>Light &amp; dark</dt>
         <dt>Toggle</dt>
         <dt>Transition Block VS Step Block</dt>
         </dl>
@@ -128,3 +119,4 @@ show_tile: false
 
 
 </div>
+:ET
