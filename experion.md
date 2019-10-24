@@ -47,6 +47,10 @@ show_tile: false
 		</header>
 		<p>Since joining Honeywell at beginning of 2018 fresh out of college, I have been working with Experion Batch team as a software engineer. Working at a multinational conglomerate business, I was not too shocked to see developer comments from 90s’ here and there in our huge code base. In fact, our team still owns some products which are built upon legacy system dated back to 1980s’(learn more about product timeline of Experion PKS). While maintaining the infrastructure by adding modules and extensions may sound like a viable solution from technical perspective, User Experience, on the other hand, is compromised inevitably when it comes to the long drop-down list, rows and rows of window tabs, lack of guidance or feedback… the list goes on.  </p>
 		<p>My concern since Day 1 was no news to the team, nor the management and leadership. Focusing on Velocity Product Development, Honeywell is launching a whole new process called Z21, which is going to reduce innovation cycle times in half. Batch team, as one of the pilot projects of Z21, has adopted Agile software development and moreover, modern technologies to build user-centered product. </p>
+		<span class="image fit" style="text-align:center;">
+		<img src="assets/images/history.svg" alt="Experioin Timeline" />
+		<figcaption><i>History of Experion 1970 - present</i></figcaption>
+		</span>
 	</div>
 </section>
 
@@ -57,42 +61,44 @@ show_tile: false
 			<h2>Procedure Explorer</h2>
 		</header>
 		<p>
-		Currently in Batch Operations, operators are often “flying blind” not knowing when critical steps are coming up. According to our customer research, throughput is compromised because operators do not have the time-based visualizations to prepare for upcoming tasks. Knowing what is coming next and when is key to keeping the plant running at maximum efficiency.
+		Currently in Batch Operations, operators are often “flying blind” not knowing when critical steps are coming up. According to our customer research, throughput is sometimes compromised because operators do not have the time-based visualizations to prepare for upcoming tasks. Knowing what is coming next and when is key to keeping the plant running at maximum efficiency.
 		</p>
+		<p>
+        While the majority of my work in this project is focusing on front-end development, I have certainly picked up a lot of useful design practices through the workshop as well as sync-up sessions with UX designer. At the same time, implementing features for a working product makes me dive deep into every design detail. As the development goes I was able to understand the patterns and principles better, and to come up with questions and feedback to support design.
+        </p>
         <div class="row" style="padding:0em 7.5em">
             <div class="4u 12u$(medium)">
                 <h3>User Personas</h3>
                 <p>
-                    <span class="image left"><img src="assets/images/oscar.jpg" alt="" /></span>
+                    <span class="image left"><img src="assets/images/oscar.png" alt="Oscar Operator in Control Room" /></span>
                     <code><b>Oscar Operator</b><br /></code>
-                    <code><b>- Control Room Operator</b><br />Works in Control room. Very busy, noisy – lots of operators, phones, alarms. 12 hour shifts – 4 days on, 5 off.</code>
+                    <code><b>- Control Room Operator</b><br />Works in Control room. Very busy, noisy. Works 12 hour shifts – 4 days on, 5 off.</code>
                 </p>
                 <p>
-                    <span class="image left"><img src="assets/images/samuel.jpg" alt="" /></span>
+                    <span class="image left"><img src="assets/images/samuel.png" alt="Samuel Smart working on Console Station" /></span>
                     <code><b>Samuel Smart</b><br /></code>
-                    <code><b>- “Super” Console Operator</b><br />Works in the plant. Ascended to current position from maintenance role.</code>
+                    <code><b>- “Super” Console Operator</b><br />Works in the plant. Ascended to current position from maintenance role due to years of experience.</code>
                 </p>
                 <p>
-                    <span class="image left"><img src="assets/images/stephen.jpg" alt="" /></span>
+                    <span class="image left"><img src="assets/images/stephen.png" alt="Stephen Super supervising an oil plant" /></span>
                     <code><b>Stephen Super</b><br /></code>
-                    <code><b>- Shift Supervisor</b><br />Dedicated office, close to the control room. Spends a lot of time communicating between Console Operators and Plant Management.</code>
+                    <code><b>- Shift Supervisor</b><br />Dedicated office, short walk to the control room. Spends a lot of time communicating between Console Operators and Plant Management.</code>
                 </p>
             </div>
-            <div class="4u 12u$(medium)" style="border-left:2px solid white; padding-bottom:10em; margin-bottom:3em">
+            <div class="4u 12u$(medium)" style="border-left:2px solid white; padding-bottom:8.3em; margin-bottom:3em">
                 <h3>User Environments</h3>
                 <p>
+                <code><b>Control Room:</b> Multiscreen station equipped with mouse and keyboard input. Operator seated in chair monitoring all screens at same time.</code>
+                <br /><br />
+                </p>
+                <p>
                 <br />
-                <code><b>Control Room:</b> Multiscreen station with mouse and keyboard input. Operator seated in chair.</code>
+                <code><b>In the Plant:</b> Single screen station, sometimes touchscreen. Operator standing near equipment during their shift.</code>
                 <br /><br />
                 </p>
                 <p>
                 <br /><br />
-                <code><b>In the Plant:</b> Single screen station sometimes touchscreen. Operator standing near equipment.</code>
-                <br /><br />
-                </p>
-                <p>
-                <br /><br /><br />
-                <code><b>On the Go:</b> Mobile tablet in hard case.</code>
+                <code><b>On the Go:</b> Mobile tablet in hard case, with touchscreen capability.</code>
                 </p>
             </div>
             <div class="4u$ 12u$(medium)" style="border-left:2px solid white; padding-bottom: 26.5em;">
@@ -118,9 +124,9 @@ show_tile: false
         <dt>Full screen & pop-up</dt>
         <dt>Light & dark</dt>
         <dt>Toggle</dt>
-        <dt>Transition Block VS Step Block</dt>
+        <dt>Transition Block vs. Step Block</dt>
         </dl>
-        <h3>Progress Disclosure</h3>
+        <h3>Progressive Disclosure</h3>
 
 
     </div>
