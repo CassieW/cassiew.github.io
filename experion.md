@@ -120,15 +120,64 @@ show_tile: false
         <br />
         A strength of adaptive design is that it feels more relevant to the modern user experience, whereas responsive design shows a more desktop-centric approach (with the demands of other devices taking a secondary, almost passive place). Let’s take a literal example; if you were driving through a long tunnel, wouldn’t you rather have a GPS screen that adapts to the environment and adjusts its brightness? That context-based performance and usability is reassuring, at the same time confirming that your smart device is smart enough to adapt and be extra useful.”
         </blockquote>
-        <dl>
-        <dt>Full screen & pop-up</dt>
-        <dt>Light & dark</dt>
-        <dt>Toggle</dt>
-        <dt>Transition Block vs. Step Block</dt>
-        </dl>
+        <p>
+        Our users work in complicated, stressful, distracting environments: an oil refinery plant in Texas producing over 5,000 tons of petrochemical products, or a pharmaceutical manufacturing plant in Germany running 2-million-dollar batches per day. Users could be sitting in the control room, multitasking on four separate displays while three different alarms going on in the background. They could be standing in the plant near a mixer equipment, working on a single-screen console station at the 5th hour of 12-hour night shift. They could be running back and forth between control room and the field, with a pen and a notebook in hand to write down parameters to be checked… With Procedure Explorer, our target is to resolve customers’ most concerned pain point – user experience.
+        </p>
+        <p>
+        Once a batch finishes configuration and kicks off running, hundreds of configured parameters and run-time data is generated. To work this massive amount of information into an intuitive visualization without compromising the legibility, it requires us to design adaptively and inclusively on the details:
+        </p>
+        <div class="row 200%">
+            <div class="6u 12u$(medium)">
+<!--                <dt>Full screen & pop-up</dt>-->
+                <span class="image fit" style="text-align:center;">
+                		<img src="assets/images/pic03.jpg" alt="Procedure Explorer runs full screen and pop-up" />
+                		<figcaption><i>Full Screen & Pop-up Window</i></figcaption>
+                </span>
+<!--                <dt>Light & dark</dt>-->
+                <span class="image fit" style="text-align:center;">
+                        <img src="assets/images/pic03.jpg" alt="Two color theme applies adaptively to different lighting conditions" />
+                        <figcaption><i>Light theme & Dark Theme</i></figcaption>
+                </span>
+            </div>
+            <div class="6u$ 12u$(medium)">
+<!--                <dt>Toggle</dt>-->
+                <span class="image fit" style="text-align:center;">
+                        <img src="assets/images/pic03.jpg" alt="Toggle button to switch between description and expressions" />
+                        <figcaption><i>Toggle Description & Expression</i></figcaption>
+                </span>
+<!--                <dt>Transition & Step</dt>-->
+                <span class="image fit" style="text-align:center;">
+                        <img src="assets/images/pic03.jpg" alt="Customized view for each block type" />
+                        <figcaption><i>Transition Block & Step Block</i></figcaption>
+                </span>
+            </div>
+        </div>
         <h3>Progressive Disclosure</h3>
-
-
+        <blockquote>
+        "Progressive disclosure defers advanced or rarely used features to a secondary screen, making applications easier to learn and less error-prone."
+        </blockquote>
+        <p>
+        An inevitable dilemma for interaction design:
+        </p>
+        <ol>
+            <li>
+            Users want <b>power</b>, features, and enough options to handle all of their special needs. An operator would like to skip all the details and get straight to the error block, while an engineer needs some essential parameters to troubleshoot specific scenario.
+            </li>
+            <li>
+            Users want <b>simplicity</b>; they don't have time learn a profusion of features in enough depth to select the few that are optimal for their needs. Due to the capacity of functionality to carry, the context menu in our existing system shows a great counter-example here:
+            </li>
+        </ol>
+        <p>
+        <i>Progressive disclosure</i> is one of the best ways to satisfy both of these conflicting requirements. It's a simple, yet powerful idea:
+        </p>
+        <ul>
+            <li>
+            Initially, show users only a few of the most important options.
+            </li>
+            <li>
+            Offer a larger set of specialized options upon request. Disclose these secondary features only if a user asks for them, meaning that most users can proceed with their tasks without worrying about this added complexity.
+            </li>
+        </ul>
     </div>
 </section>
 
