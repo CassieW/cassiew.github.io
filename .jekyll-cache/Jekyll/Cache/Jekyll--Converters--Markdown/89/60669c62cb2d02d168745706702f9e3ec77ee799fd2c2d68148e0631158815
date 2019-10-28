@@ -1,25 +1,16 @@
----
-layout: page
-title: Honeywell Experion® PKS - Experion Batch
-description: Make Every Batch Golden
-image: assets/images/orion.jpg
-nav-menu: false
-show_tile: false
----
-
-<!-- main -->
+I"�0<!-- main -->
 <div id="main" class="alt">
 
 <section id="banner" class="style2">
     <div class="inner">
         <span class="image">
-            <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
+            <img src="/assets/images/orion.jpg" alt="" />
         </span>
         <header class="major">
-            <h1>{{ page.title }}</h1>
+            <h1>Honeywell Experion® PKS - Experion Batch</h1>
         </header>
         <div class="content">
-            {{ page.description }}
+            Make Every Batch Golden
         </div>
     </div>
 </section>
@@ -131,24 +122,24 @@ show_tile: false
 <!--                <dt>Full screen & pop-up</dt>-->
                 <span class="image fit" style="text-align:center;">
                 		<img src="assets/images/pic03.jpg" alt="Procedure Explorer runs full screen and pop-up" />
-                		<figcaption><i>Full Screen & Pop-up Window</i></figcaption>
+                		<figcaption><i>Full Screen &amp; Pop-up Window</i></figcaption>
                 </span>
 <!--                <dt>Light & dark</dt>-->
                 <span class="image fit" style="text-align:center;">
                         <img src="assets/images/themes.gif" alt="Two color theme applies adaptively to different lighting conditions" />
-                        <figcaption><i>Light theme & Dark Theme</i></figcaption>
+                        <figcaption><i>Light theme &amp; Dark Theme</i></figcaption>
                 </span>
             </div>
             <div class="6u$ 12u$(medium)">
 <!--                <dt>Toggle</dt>-->
                 <span class="image fit" style="text-align:center;">
                         <img src="assets/images/toggle.gif" alt="Toggle button to switch between description and expressions" />
-                        <figcaption><i>Toggle Description & Expression</i></figcaption>
+                        <figcaption><i>Toggle Description &amp; Expression</i></figcaption>
                 </span>
 <!--                <dt>Transition & Step</dt>-->
                 <span class="image fit" style="text-align:center;">
                         <img src="assets/images/pic03.jpg" alt="Customized view for each block type" />
-                        <figcaption><i>Transition Block & Step Block</i></figcaption>
+                        <figcaption><i>Transition Block &amp; Step Block</i></figcaption>
                 </span>
             </div>
         </div>
@@ -180,27 +171,7 @@ show_tile: false
         </ul>
         <p>As we introduce Procedure Explorer as a user-friendly replacement for functionalities in existing system, progressive disclosure makes the transition happens naturally: with one action users bring up a set of limited functions, they are designed intuitively leading to next level of information, while not overwhelm users with the options.
         </p>
-        <div class="6u$ 12u$(medium)">
-            <span class="image fit" style="text-align:center;">
-                    <img src="assets/images/toggle.gif" alt="Toggle button to switch between description and expressions" />
-                    <figcaption><i>
-                    Combining existing Chart View with Tree View, a hierarchy structure optimized for view in depth to quickly locate an element.
-                    </i></figcaption>
-            </span>
-            <span class="image fit" style="text-align:center;">
-                    <img src="assets/images/pic03.jpg" alt="Customized view for each block type" />
-                    <figcaption><i>
-                    Clicking on chart element brings up a table visualization with key parameters, which allows further interaction for in-place instruction, or accessing next level of parameters.
-                    </i></figcaption>
-            </span>
-            <span class="image fit" style="text-align:center;">
-                    <img src="assets/images/toggle.gif" alt="Toggle button to switch between description and expressions" />
-                    <figcaption><i>
-                    Call-out dialog gives more details on the chosen element, with access point to other views for more diagnosis information.
-                    </i></figcaption>
-            </span>
-        </div>
-        <p>A (dummy) demo of complete workflow running batch with Procedure Explorer:</p>
+        
         <span class="image fit" style="text-align:center;">
                 <img src="assets/images/demo.gif" alt="Customized view for each block type" />
                 <figcaption><i>Procedure Explorer Demo</i></figcaption>
@@ -210,3 +181,4 @@ show_tile: false
 
 
 </div>
+:ET
