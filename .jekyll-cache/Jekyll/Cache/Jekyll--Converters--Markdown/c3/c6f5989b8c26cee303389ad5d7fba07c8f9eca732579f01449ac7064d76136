@@ -1,25 +1,16 @@
----
-layout: page
-title: Honeywell Experion® PKS - Experion Batch
-description: Make Every Batch Golden
-image: assets/images/orion.jpg
-nav-menu: false
-show_tile: false
----
-
-<!-- main -->
+I"7<!-- main -->
 <div id="main" class="alt">
 
 <section id="banner" class="style2">
     <div class="inner">
         <span class="image">
-            <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
+            <img src="/assets/images/orion.jpg" alt="" />
         </span>
         <header class="major">
-            <h1>{{ page.title }}</h1>
+            <h1>Honeywell Experion® PKS - Experion Batch</h1>
         </header>
         <div class="content">
-            {{ page.description }}
+            Make Every Batch Golden
         </div>
     </div>
 </section>
@@ -129,23 +120,23 @@ show_tile: false
         <div class="row 200%">
             <span class="image fit" style="text-align:center;">
                 <img src="assets/images/FullScreenNPopUp.png" alt="Procedure Explorer runs full screen and pop-up" />
-                <figcaption><i>Full Screen & Pop-up Window</i></figcaption>
+                <figcaption><i>Full Screen &amp; Pop-up Window</i></figcaption>
             </span>
             <div class="6u 12u(medium)">
                 <span class="image fit" style="text-align:center;">
                         <img src="assets/images/themes.gif" alt="Two color theme applies adaptively to different lighting conditions" />
-                        <figcaption><i>Light theme & Dark Theme</i></figcaption>
+                        <figcaption><i>Light theme &amp; Dark Theme</i></figcaption>
                 </span>
             </div>
             <div class="6u 12u$(medium)">
                 <span class="image fit" style="text-align:center;">
                         <img src="assets/images/toggle.gif" alt="Toggle button to switch between description and expressions" />
-                        <figcaption><i>Toggle Description & Expression</i></figcaption>
+                        <figcaption><i>Toggle Description &amp; Expression</i></figcaption>
                 </span>
             </div>
             <span class="image fit" style="text-align:center;">
                 <img src="assets/images/StepNTransition.png" alt="Customized view for each block type" />
-                <figcaption><i>Step Block & Transition Block</i></figcaption>
+                <figcaption><i>Step Block &amp; Transition Block</i></figcaption>
             </span>
         </div>
         <h3>Progressive Disclosure</h3>
@@ -212,3 +203,4 @@ show_tile: false
 
 
 </div>
+:ET
