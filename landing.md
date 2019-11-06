@@ -100,16 +100,18 @@ nav-menu: true
 <section id="six" class="spotlights">
 	<section>
 		<a href="noticeme.html" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/noticeme.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>NoticeMe</h3>
+					<a href="noticeme.html"><h3>NoticeMe</h3></a>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>
+                NoticeMe is a personalized notification tool that emails citizens to inform them of opportunities for public input on proposed land-use changes. It is difficult for the average citizens to keep up on all the public meeting agendas for properties in their neighborhood. Along with the increased outreach required by the Neighborhood Participation Program, NoticeMe offers a way for all interested parties to stay informed of proposed land use changes in a selected area.
+				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="noticeme.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -120,9 +122,11 @@ nav-menu: true
 <section id="seven">
 	<div class="inner">
 		<header class="major">
-			<h2>Digital Industry</h2>
+			<h2>Inclusive Design</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p><backquote>
+        “Inclusive Design is a methodology, born out of digital environments, that enables and draws on the full range of human diversity. Most importantly, this means including and learning from people with a range of perspectives.” -- Microsoft Design
+		</backquote></p>
 	</div>
 </section>
 
