@@ -1,13 +1,4 @@
----
-title: Projects
-id: Rethink "Digital"
-layout: landing
-description: 'Digital Industry<br />Digital Wellbeing<br />Digital City<br />Ubiquitous Interaction'
-image: assets/images/pic07.jpg
-nav-menu: true
----
-
-<!-- Main -->
+I"�<!-- Main -->
 <div id="main">
 
 <!-- One -->
@@ -31,7 +22,7 @@ nav-menu: true
 				<header class="major">
 					<a href="experion.html"><h3>Honeywell Experion® PKS - Experion Batch</h3></a>
 				</header>
-				<p>Experion® Batch combines Experion’s distributed control, batch automation, and patent pending visualization technology for a solution optimized for Pharmaceutical, Specialty Chemical, Food & Beverage, and other batch applications. Increase operational efficiencies and throughput, bridge operator skills gaps, and ensure repeatable quality.</p>
+				<p>Experion® Batch combines Experion’s distributed control, batch automation, and patent pending visualization technology for a solution optimized for Pharmaceutical, Specialty Chemical, Food &amp; Beverage, and other batch applications. Increase operational efficiencies and throughput, bridge operator skills gaps, and ensure repeatable quality.</p>
 				<ul class="actions">
 					<li><a href="experion.html" class="button">Learn more</a></li>
 				</ul>
@@ -170,3 +161,4 @@ nav-menu: true
 
 
 </div>
+:ET
