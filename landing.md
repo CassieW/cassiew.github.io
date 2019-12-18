@@ -5,6 +5,7 @@ layout: landing
 description: 'Digital Industry<br />Digital Wellbeing<br />Digital City<br />Ubiquitous Interaction'
 image: assets/images/pic07.jpg
 nav-menu: true
+show_tile: true
 ---
 
 <!-- Main -->
