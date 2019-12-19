@@ -1,14 +1,4 @@
----
-title: Projects
-id: Rethink "Digital"
-layout: landing
-description: 'Digital Industry<br />Digital City<br />Inclusive Design<br />Digital Wellbeing'
-image: assets/images/pic07.jpg
-nav-menu: true
-show_tile: true
----
-
-<!-- Main -->
+I"�<!-- Main -->
 <div id="main">
 
 <!-- One -->
@@ -32,7 +22,7 @@ show_tile: true
 				<header class="major">
 					<a href="experion.html"><h3>Honeywell Experion® PKS - Experion Batch</h3></a>
 				</header>
-				<p>Experion® Batch combines Experion’s distributed control, batch automation, and patent pending visualization technology for a solution optimized for Pharmaceutical, Specialty Chemical, Food & Beverage, and other batch applications. Increase operational efficiencies and throughput, bridge operator skills gaps, and ensure repeatable quality.</p>
+				<p>Experion® Batch combines Experion’s distributed control, batch automation, and patent pending visualization technology for a solution optimized for Pharmaceutical, Specialty Chemical, Food &amp; Beverage, and other batch applications. Increase operational efficiencies and throughput, bridge operator skills gaps, and ensure repeatable quality.</p>
 				<ul class="actions">
 					<li><a href="experion.html" class="button">Learn more</a></li>
 				</ul>
@@ -89,20 +79,20 @@ show_tile: true
 <!-- Six-->
 <section id="six" class="spotlights">
 	<section>
-		<a href="https://www.accessiblesyllabus.com/" target="_blank" class="image">
+		<a href="https://www.accessiblesyllabus.com/" class="image">
 			<img src="assets/images/accessibleSyllabus.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<a href="https://www.accessiblesyllabus.com/" target="_blank"><h3>Accessible Syllabus</h3></a>
+					<a href="accessibleSyllabus.html"><h3>Accessible Syllabus</h3></a>
 				</header>
 				<p>
                     A universal guide for educators to build a syllabus that plans for diverse student abilities.<br />
                     <blockquote>"Countless instructors complain that students don’t read the syllabus. We believe students would use the document more effectively if it were designed more accessibly.”
                     <span style="float:right"> – Dr. Anne Marie Womack, creator of AccessibleSyllabus.com</span></blockquote>
                     Developed with Tulane University English Department<br />
-                    A Collab Media Lab project<br /><br />
+                    A Collab Media Lab project<br /><br /><br />
 				</p>
 			</div>
 		</div>
@@ -174,3 +164,4 @@ show_tile: true
 
 
 </div>
+:ET
