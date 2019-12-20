@@ -1,14 +1,4 @@
----
-title: Projects
-id: Rethink "Digital"
-layout: landing
-description: 'Digital Industry<br />Digital City<br />Inclusive Design<br />Digital Wellbeing'
-image: assets/images/pic07.jpg
-nav-menu: true
-show_tile: true
----
-
-<!-- Main -->
+I"�<!-- Main -->
 <div id="main">
 
 <!-- One -->
@@ -23,23 +13,16 @@ show_tile: true
 
 <!-- Two -->
 <section id="two" class="spotlights">
-    <section style="width:100%;height:500px;">
-        <a href="experion.html" class="image">
-            <div style="width: 100%;
-                        height:100%;
-                        background-position: center;
-                        background-size: 100% 100%;
-                        background-repeat: no-repeat;
-                        background-image:url('assets/images/orion.jpg');
-                        background-color: #272c42">
-            </div>
+	<section>
+		<a href="experion.html" class="image">
+			<img src="assets/images/orion.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<a href="experion.html"><h3 style="margin:0">Honeywell Experion® PKS - Experion Batch</h3></a>
+					<a href="experion.html"><h3>Honeywell Experion® PKS - Experion Batch</h3></a>
 				</header>
-				<p>Experion® Batch combines Experion’s distributed control, batch automation, and patent pending visualization technology for a solution optimized for Pharmaceutical, Specialty Chemical, Food & Beverage, and other batch applications. Increase operational efficiencies and throughput, bridge operator skills gaps, and ensure repeatable quality.</p>
+				<p>Experion® Batch combines Experion’s distributed control, batch automation, and patent pending visualization technology for a solution optimized for Pharmaceutical, Specialty Chemical, Food &amp; Beverage, and other batch applications. Increase operational efficiencies and throughput, bridge operator skills gaps, and ensure repeatable quality.</p>
 				<ul class="actions">
 					<li><a href="experion.html" class="button">Learn more</a></li>
 				</ul>
@@ -60,21 +43,14 @@ show_tile: true
 
 <!-- Four -->
 <section id="four" class="spotlights">
-    <section style="width:100%;height:500px;">
-        <a href="noticeme.html" class="image">
-            <div style="width: 100%;
-                        height:100%;
-                        background-position: center;
-                        background-size: 100% 90%;
-                        background-repeat: no-repeat;
-                        background-image:url('assets/images/noticeme.png');
-                        background-color: #272c42">
-            </div>
-        </a>
+	<section>
+		<a href="noticeme.html" class="image">
+			<img src="assets/images/noticeme.png" alt="" data-position="25% 25%" />
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<a href="noticeme.html"><h3 style="margin:0">NoticeMe</h3></a>
+					<a href="noticeme.html"><h3>NoticeMe</h3></a>
 				</header>
 				<p>
                 NoticeMe is a personalized notification tool that emails citizens to inform them of opportunities for public input on proposed land-use changes. It is difficult for the average citizens to keep up on all the public meeting agendas for properties in their neighborhood. Along with the increased outreach required by the Neighborhood Participation Program, NoticeMe offers a way for all interested parties to stay informed of proposed land use changes in a selected area.
@@ -102,49 +78,34 @@ show_tile: true
 
 <!-- Six-->
 <section id="six" class="spotlights">
-	<section style="width:100%;height:500px;">
+	<section>
 		<a href="https://www.accessiblesyllabus.com/" target="_blank" class="image">
-            <div style="width: 100%;
-                        height:100%;
-                        background-position: center;
-                        background-size: 100% 70%;
-                        background-repeat: no-repeat;
-                        background-image:url('assets/images/accessibleSyllabus.png');
-                        background-color: #272c42;
-                        opacity:0.6">
-            </div>
-        </a>
+			<img src="assets/images/accessibleSyllabus.png" alt="" data-position="25% 25%" />
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<a href="https://www.accessiblesyllabus.com/" target="_blank"><h3 style="margin:0">Accessible Syllabus</h3></a>
+					<a href="https://www.accessiblesyllabus.com/" target="_blank"><h3>Accessible Syllabus</h3></a>
 				</header>
 				<p>
                     A universal guide for educators to build a syllabus that plans for diverse student abilities.<br />
                     <blockquote>"Countless instructors complain that students don’t read the syllabus. We believe students would use the document more effectively if it were designed more accessibly.”
                     <span style="float:right"> – Dr. Anne Marie Womack, creator of AccessibleSyllabus.com</span></blockquote>
                     Website developed with Tulane University English Department<br />
-                    A Collab Media Lab project
+                    A Collab Media Lab project<br /><br />
 				</p>
 			</div>
 		</div>
 	</section>
-	<section style="width:100%;height:500px;">
-        <a href="generic.html" class="image">
-            <div style="width: 100%;
-                        height:100%;
-                        background-position: center;
-                        background-size: 100% 50%;
-                        background-repeat: no-repeat;
-                        background-image:url('assets/images/CRGC.jpeg');
-                        background-color: #272c42;
-                        opacity:0.6">
-            </div>
-        </a>
+	<section>
+	
+		<a href="generic.html" class="image">
+			<img src="assets/images/CRGC.jpeg" alt="" style="object-fit:cover" data-position="25% 25%" />
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3 style="margin:0">The Consortium for Resilient Gulf Communities Website</h3>
+					<h3>The Consortium for Resilient Gulf Communities Website</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
@@ -174,7 +135,7 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3 style="margin:0">Cusplt</h3>
+					<h3>Cusplt</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
@@ -190,7 +151,7 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3 style="margin:0">Grocerant</h3>
+					<h3>Grocerant</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
@@ -204,3 +165,4 @@ show_tile: true
 
 
 </div>
+:ET
