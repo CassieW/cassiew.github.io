@@ -1,13 +1,4 @@
----
-layout: page
-title: About me
-description: 'DEVELOPER  |  DESIGNER  |  ENTREPRENEUR'
-nav-menu: true
-show_tile: true
-image: assets/images/banner1.jpg
----
-
-<!-- Main -->
+I"t<!-- Main -->
 <div id="main" class="alt">
 
 <!-- One -->
@@ -41,3 +32,4 @@ image: assets/images/banner1.jpg
 </section>
 
 </div>
+:ET
