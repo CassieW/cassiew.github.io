@@ -3,7 +3,7 @@ title: Projects
 id: Rethink "Digital"
 layout: landing
 description: 'Digital Industry<br />Digital City<br />Inclusive Design<br />Digital Wellbeing'
-image: assets/images/pic07.jpg
+image: assets/images/sweetspot.jpg
 nav-menu: true
 show_tile: true
 ---
