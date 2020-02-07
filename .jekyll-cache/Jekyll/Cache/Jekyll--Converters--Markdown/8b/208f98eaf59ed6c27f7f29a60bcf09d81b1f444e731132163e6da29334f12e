@@ -1,13 +1,4 @@
----
-layout: page
-title: About me
-description: 'DEVELOPER  |  DESIGNER  |  ENTREPRENEUR'
-nav-menu: true
-show_tile: true
-image: assets/images/banner1.jpg
----
-
-<!-- Main -->
+I"ð<!-- Main -->
 <div id="main" class="alt">
 
 <!-- One -->
@@ -31,16 +22,15 @@ image: assets/images/banner1.jpg
         <h3>Hi, I'm Cassie. </h3>
         <p> I am a software engineer learning to wear designer hat and solve problems for our everyday life. <br />
         Currently I optimize software solution to batch applications such as large pharmaceutical, specialty chemical companies at
-        <a href="https://www.honeywellprocess.com/en-US/online_campaigns/experion-pks/Pages/batch.html" target="_blank">Honeywell Batch team</a> in Philly,
-        where I met a group of
-        <a href="https://www.amazon.com/CUSP-Method-Balanced-Portions-Healthy-ebook/dp/B06Y5LXN6G" target="_blank">student entrepreneurs</a> digitalizing their business ideas.
+        <a href="https://www.honeywellprocess.com/en-US/online_campaigns/experion-pks/Pages/batch.html" target="_blank">Honeywell</a> in Philly,
+        where I met a group of student entrepreneurs digitalizing their business ideas.
         <br />
         I grew up in Guangzhou, southern China. I speak three languages fluently and have lived in different countries. <br />
-        I love
-        <a href="http://localhost:4000/generic.html">photography and videography</a>, lately playing with my new anamorphic lens.
+        I love photography and videography, lately playing with my new anamorphic lens.
         </p>
     </div>
 
 </section>
 
 </div>
+:ET

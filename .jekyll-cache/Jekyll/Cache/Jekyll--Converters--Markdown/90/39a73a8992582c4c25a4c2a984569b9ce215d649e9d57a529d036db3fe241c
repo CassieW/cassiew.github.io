@@ -1,13 +1,4 @@
----
-layout: page
-title: About me
-description: 'DEVELOPER  |  DESIGNER  |  ENTREPRENEUR'
-nav-menu: true
-show_tile: true
-image: assets/images/banner1.jpg
----
-
-<!-- Main -->
+I"†<!-- Main -->
 <div id="main" class="alt">
 
 <!-- One -->
@@ -33,7 +24,7 @@ image: assets/images/banner1.jpg
         Currently I optimize software solution to batch applications such as large pharmaceutical, specialty chemical companies at
         <a href="https://www.honeywellprocess.com/en-US/online_campaigns/experion-pks/Pages/batch.html" target="_blank">Honeywell Batch team</a> in Philly,
         where I met a group of
-        <a href="https://www.amazon.com/CUSP-Method-Balanced-Portions-Healthy-ebook/dp/B06Y5LXN6G" target="_blank">student entrepreneurs</a> digitalizing their business ideas.
+        <a href="https://appadvice.com/app/cuspit/1355972187" target="_blank">student entrepreneurs</a> digitalizing their business ideas.
         <br />
         I grew up in Guangzhou, southern China. I speak three languages fluently and have lived in different countries. <br />
         I love
@@ -44,3 +35,4 @@ image: assets/images/banner1.jpg
 </section>
 
 </div>
+:ET
