@@ -1,14 +1,4 @@
----
-title: Projects
-id: Rethink "Digital"
-layout: landing
-description: 'Digital Industry<br />Digital City<br />Inclusive Design<br />Digital Wellbeing'
-image: assets/images/sweetspot.jpg
-nav-menu: true
-show_tile: true
----
-
-<!-- Main -->
+I"$<!-- Main -->
 <div id="main">
 
 <!-- One -->
@@ -39,7 +29,7 @@ show_tile: true
 				<header class="major">
 					<a href="experion.html"><h3 style="margin:0">Honeywell Experion® PKS - Experion Batch</h3></a>
 				</header>
-				<p>Experion® Batch combines Experion’s distributed control, batch automation, and patent pending visualization technology for a solution optimized for Pharmaceutical, Specialty Chemical, Food & Beverage, and other batch applications. Increase operational efficiencies and throughput, bridge operator skills gaps, and ensure repeatable quality.</p>
+				<p>Experion® Batch combines Experion’s distributed control, batch automation, and patent pending visualization technology for a solution optimized for Pharmaceutical, Specialty Chemical, Food &amp; Beverage, and other batch applications. Increase operational efficiencies and throughput, bridge operator skills gaps, and ensure repeatable quality.</p>
 				<ul class="actions">
 					<li><a href="experion.html" class="button">Learn more</a></li>
 				</ul>
@@ -173,16 +163,9 @@ show_tile: true
 
 <!-- Eight-->
 <section id="eight" class="spotlights">
-	<section style="width:100%;height:500px;">
-		<a href="https://appadvice.com/app/cuspit/1355972187" target="_blank" class="image">
-		    <div style="width: 100%;
-                        height:100%;
-                        background-position: center;
-                        background-size: 100% 60%;
-                        background-repeat: no-repeat;
-                        background-image:url('assets/images/cuspit.png');
-                        background-color: ~~#2a3049;~~">
-            </div>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/cuspit.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -191,11 +174,12 @@ show_tile: true
 				</header>
 				<p>
                 I believe that design is a creative process and entrepreneurship is the catalyst for design thinking.
-                Collaborated with Jaclyn DiGregorio, a student entrepreneur, business speaker and best-selling author, we created CuspIt365 - a React Native mobile app that advocates for the physical and mental well-being of college students,
-                based on <a href="https://www.amazon.com/CUSP-Method-Balanced-Portions-Healthy-ebook/dp/B06Y5LXN6G" target="_blank">The CUSP Method</a>.
+				</p>
+				<p>
+                Collaborated with a student entrepreneur, a business coach, speaker and best-selling author, 
                 </p>
 				<ul class="actions">
-					<li><a href="https://appadvice.com/app/cuspit/1355972187" target="_blank" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -207,13 +191,9 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3 style="margin:0">SmartDiet</h3>
+					<h3 style="margin:0">Grocerant</h3>
 				</header>
-				<p>
-				The one-stop solution to simplify the daily dining and shopping experience for your dieting life - the SmartDiet.
-				<br />
-				An entrepreneurial idea inspired by the rising Experience Economy applied to the “Dinertainment” market.
-                </p>
+				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -225,3 +205,4 @@ show_tile: true
 
 
 </div>
+:ET

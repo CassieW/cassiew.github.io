@@ -1,4 +1,4 @@
-I"æ!<!-- Main -->
+I"%<!-- Main -->
 <div id="main">
 
 <!-- One -->
@@ -120,7 +120,7 @@
 		</div>
 	</section>
 	<section style="width:100%;height:500px;">
-        <a href="generic.html" class="image">
+        <a href="https://drive.google.com/open?id=1RA5a25CE0d3kBnXAavmZlkL72McmETUT" target="_blank" class="image">
             <div style="width: 100%;
                         height:100%;
                         background-position: center;
@@ -136,9 +136,14 @@
 				<header class="major">
 					<h3 style="margin:0">The Consortium for Resilient Gulf Communities Website</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+				<p>
+                The Consortium for Resilient Gulf Communities(GRGC) conducts research, outreach, and education activities aimed at investigating and addressing the public health, social, and economic impacts of the Deepwater Horizon Oil spill in the Gulf of Mexico region, and seeks to understand and promote communitiesâ€™ resilience to adverse future event.
+                </p>
+				<p>
+                To facilitate risk communication, we have designed and implemented a website with automated content-personalization capable of matching different user types with the most relevant information concerning oil spill impact and resilience-building strategies.
+                </p>
+                <ul class="actions">
+					<li><a href="https://drive.google.com/open?id=1RA5a25CE0d3kBnXAavmZlkL72McmETUT" target="_blank" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -151,7 +156,8 @@
 		<header class="major">
 			<h2>Digital Wellbeing</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.
+		</p>
 	</div>
 </section>
 
@@ -159,14 +165,20 @@
 <section id="eight" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="assets/images/cuspit.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3 style="margin:0">Cusplt</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>
+                I believe that design is a creative process and entrepreneurship is the catalyst for design thinking.
+				</p>
+				<p>
+                Collaborated with a student entrepreneur, a business coach, speaker and best-selling author, we created CuspIt365 - a React Native mobile app that advocates for the physical and mental well-being of college students,
+                based on <a href="https://www.amazon.com/CUSP-Method-Balanced-Portions-Healthy-ebook/dp/B06Y5LXN6G" target="_blank">The CUSP Method</a>.
+                </p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>

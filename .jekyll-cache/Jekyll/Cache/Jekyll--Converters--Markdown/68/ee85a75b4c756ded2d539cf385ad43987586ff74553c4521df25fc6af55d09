@@ -1,14 +1,4 @@
----
-title: Projects
-id: Rethink "Digital"
-layout: landing
-description: 'Digital Industry<br />Digital City<br />Inclusive Design<br />Digital Wellbeing'
-image: assets/images/sweetspot.jpg
-nav-menu: true
-show_tile: true
----
-
-<!-- Main -->
+I"3&<!-- Main -->
 <div id="main">
 
 <!-- One -->
@@ -39,7 +29,7 @@ show_tile: true
 				<header class="major">
 					<a href="experion.html"><h3 style="margin:0">Honeywell Experion® PKS - Experion Batch</h3></a>
 				</header>
-				<p>Experion® Batch combines Experion’s distributed control, batch automation, and patent pending visualization technology for a solution optimized for Pharmaceutical, Specialty Chemical, Food & Beverage, and other batch applications. Increase operational efficiencies and throughput, bridge operator skills gaps, and ensure repeatable quality.</p>
+				<p>Experion® Batch combines Experion’s distributed control, batch automation, and patent pending visualization technology for a solution optimized for Pharmaceutical, Specialty Chemical, Food &amp; Beverage, and other batch applications. Increase operational efficiencies and throughput, bridge operator skills gaps, and ensure repeatable quality.</p>
 				<ul class="actions">
 					<li><a href="experion.html" class="button">Learn more</a></li>
 				</ul>
@@ -210,9 +200,7 @@ show_tile: true
 					<h3 style="margin:0">SmartDiet</h3>
 				</header>
 				<p>
-				The one-stop solution to simplify the daily dining and shopping experience for your dieting life - the SmartDiet.
-				<br />
-				An entrepreneurial idea inspired by the rising Experience Economy applied to the “Dinertainment” market.
+				Introducing the one-stop solution to simplify the daily dining and shopping experience for your dieting life - the SmartDiet
                 </p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
@@ -225,3 +213,4 @@ show_tile: true
 
 
 </div>
+:ET
